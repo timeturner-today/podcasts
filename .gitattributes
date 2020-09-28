@@ -1,0 +1,2 @@
+episodes/episode*.* filter=lfs diff=lfs merge=lfs -text
+docs/episodes/episode*.* filter=lfs diff=lfs merge=lfs -text
