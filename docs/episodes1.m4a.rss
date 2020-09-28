@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://localhost:4001/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>Welcome to the TimeTurner Podcast! Together, we’ll dive into how social issues have shaped our times,  and discover the history behind them. We’ll talk to trailblazers who are leading initiatives to solve  these challenges and ask ourselves the question of how we can create a more perfect union.
 </description>
-    <lastBuildDate>Sun, 27 Sep 2020 23:59:24 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:08:35 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -52,5 +52,41 @@
     <itunes:category text="Justice" />
     
     <itunes:category text="Equality" />
-    </channel>
+    <item>
+            <title>Intro (Trailer) - Trailer to the TimeTurner Podcast series</title>
+            <link>http://localhost:4001/2020/09/22/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4001/players/episode0"/>
+            <comments>http://localhost:4001/2020/09/22/episode0.html#disqus_thread</comments>
+            <pubDate>Tue, 22 Sep 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4001/2020/09/22/episode0.html</guid>
+            <description><![CDATA[<!--- 
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+]]></description>
+            <content:encoded><![CDATA[<!--- 
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+]]></content:encoded>
+            <enclosure url="/episodes/episode0.m4a" 
+                         length="3297172" 
+                         type="audio/mp4a-latm" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Trailer to the TimeTurner Podcast series</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Akshaya Ajith</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:23</itunes:duration>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro." />
+              
+            </psc:chapters></item></channel>
 </rss>

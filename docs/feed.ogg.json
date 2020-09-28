@@ -28,8 +28,12 @@
     "title": "Intro (Trailer)",
     "summary": "",
     "content_text": "",
-    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"minimal\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"/episodes/episode0.mp3\"},\"coverUrl\":\"http://localhost:4001/img/logo-360x360.png\",\"title\":\"Intro (Trailer)\",\"subtitle\":\"Trailer to the TimeTurner Podcast series\",\"url\":\"http://localhost:4001/2020/09/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://localhost:4001/podigee-player/javascripts/podigee-podcast-player.js\"></script>",
+    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"minimal\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"/episodes/episode0.mp3\",\"m4a\":\"/episodes/episode0.m4a\"},\"coverUrl\":\"http://localhost:4001/img/logo-360x360.png\",\"title\":\"Intro (Trailer)\",\"subtitle\":\"Trailer to the TimeTurner Podcast series\",\"url\":\"http://localhost:4001/2020/09/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://localhost:4001/podigee-player/javascripts/podigee-podcast-player.js\"></script>",
     "url": "http://localhost:4001/2020/09/22/episode0.html",
+    "attachments": [
+      {"url": "/episodes/",
+       "mime_type": "audio/mpeg","size_in_bytes": "4894123"}
+    ],
     "date_published": "2020-09-22T00:00:00-07:00",
     "date_modified": "2020-09-22T00:00:00-07:00",
     "author": {

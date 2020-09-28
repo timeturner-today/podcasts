@@ -4,7 +4,7 @@
   <title>Podcast</title>
   <link href="http://localhost:4001/general_feed.xml" rel="self"/>
   <link href="http://localhost:4001"/>
-  <updated>2020-09-27T23:59:24-07:00</updated>
+  <updated>2020-09-28T00:08:35-07:00</updated>
   <id>http://localhost:4001/</id>
   <author>
     <name>Akshaya Ajith</name>
@@ -37,7 +37,7 @@ It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;minimal&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;/episodes/episode0.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4001/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intro (Trailer)&quot;,&quot;subtitle&quot;:&quot;Trailer to the TimeTurner Podcast series&quot;,&quot;url&quot;:&quot;http://localhost:4001/2020/09/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;minimal&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;/episodes/episode0.mp3&quot;,&quot;m4a&quot;:&quot;/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4001/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intro (Trailer)&quot;,&quot;subtitle&quot;:&quot;Trailer to the TimeTurner Podcast series&quot;,&quot;url&quot;:&quot;http://localhost:4001/2020/09/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://localhost:4001/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -50,6 +50,13 @@ It is only necessary for hosting remotely.
                 type="audio/mpeg" 
                 length="4894123" 
                 href="http://localhost:4001/episodes/episode0.mp3"/>    
+        
+      
+        
+          <link rel="enclosure" 
+                type="audio/mp4a-latm" 
+                length="3297172" 
+                href="http://localhost:4001/episodes/episode0.m4a"/>    
         
       
       
