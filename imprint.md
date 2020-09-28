@@ -6,11 +6,7 @@ navigation: 1
 
 # Media Owner and Content
 
-... put in information here ...
-
-# Links
-
-... put in information here ...
+All content owned by [TimeTurner](https://timeturner.today)
 
 
 # License

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Podcast</title>
+  <link href="http://localhost:4001/general_feed.xml" rel="self"/>
+  <link href="http://localhost:4001"/>
+  <updated>2020-09-27T23:59:24-07:00</updated>
+  <id>http://localhost:4001/</id>
+  <author>
+    <name>Akshaya Ajith</name>
+    <email>podcasts@timeturner.today</email>
+  </author>
+
+  
+    <entry>
+      <title>TimeTurner Podcast</title>
+      <link href="http://localhost:4001/podcast,/timeturner,/trailer/2020/09/27/welcome-to-timeturner-podcast.html"/>
+      <updated>2020-09-27T20:41:20-07:00</updated>
+      <id>http://localhost:4001/podcast,/timeturner,/trailer/2020/09/27/welcome-to-timeturner-podcast</id>
+      <content type="html">&lt;p&gt;The TimeTurner podcast is a dive into how social issues have shaped our times. In each episode, we’ll discover the history behind each complicated issue. We’ll talk to trailblazers who are leading initiatives to solve these challenges and ask ourselves the question of how we can create a more perfect union.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://timeturner.today&quot;&gt;TimeTurner&lt;/a&gt; was started as an idea that we could look back at history through the lens of current events, and work towards the future with solutions to issues we face today. As we continue to break barriers, drive towards change, and make monumental decisions, the shadow of history continues to fall over our lives today. While we cannot change the past, TimeTurner hopes to encourage discourse on how humanity has both leaped and stumbled throughout history, and how each action affects us inherently today.&lt;/p&gt;
+
+</content>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Intro (Trailer)</title>
+      <link href="http://localhost:4001/2020/09/22/episode0.html"/>
+      <updated>2020-09-22T00:00:00-07:00</updated>
+      <id>http://localhost:4001/2020/09/22/episode0</id>
+      <content type="html">&lt;!--- 
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;minimal&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;/episodes/episode0.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4001/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intro (Trailer)&quot;,&quot;subtitle&quot;:&quot;Trailer to the TimeTurner Podcast series&quot;,&quot;url&quot;:&quot;http://localhost:4001/2020/09/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://localhost:4001/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="4894123" 
+                href="http://localhost:4001/episodes/episode0.mp3"/>    
+        
+      
+      
+    </entry>
+  
+</feed>

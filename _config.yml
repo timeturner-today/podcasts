@@ -2,7 +2,7 @@ title: Podcast
 url: http://localhost:4001
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: ""  # "https://podcasts.timeturner.today/episodes"
+download_url: "/episodes"  # "https://podcasts.timeturner.today/episodes"
 subtitle: Podcast Episodes of the TimeTurner initiative
 description: >-
   Welcome to the TimeTurner Podcast! Together, we'll dive into how social issues have shaped our times, 
@@ -67,7 +67,7 @@ disqus_developer: 0 # 1 | 0
 ### Isso comments
 use_isso: "no" # "no" | "yes"
 
-theme: jekyll-bootflat
+# theme: jekyll-bootflat
 
 ### Jekyll Admin: uncomment the last line of this paragraph to enable Jekyll Admin.
 ### (but you will loose auto regeneration after code changes with a text editor then)
@@ -75,6 +75,7 @@ plugins:
   - jekyll-octopod
 #  - jekyll-admin
 
+markdown: kramdown
 ### Links to all domains, expect whitelisted will be rendered with rel="nofollow noopener noreferrer"
 # kramdown:
 #   input: 'NoopenerGFM'
