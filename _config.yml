@@ -1,5 +1,5 @@
 title: Podcast
-url: http://localhost:4001
+url: https://podcasts.timeturner.today
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "/episodes"  # "https://podcasts.timeturner.today/episodes"

@@ -9,18 +9,18 @@
 
   <channel>
     <title>Podcast</title>
-    <link>http://localhost:4001</link>
-    <atom:link href="http://localhost:4001/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://localhost:4001/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://localhost:4001/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://podcasts.timeturner.today</link>
+    <atom:link href="https://podcasts.timeturner.today/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://podcasts.timeturner.today/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://podcasts.timeturner.today/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="http://localhost:4001/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-<atom:link rel="alternate" href="http://localhost:4001/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://podcasts.timeturner.today/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://podcasts.timeturner.today/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>Welcome to the TimeTurner Podcast! Together, we’ll dive into how social issues have shaped our times,  and discover the history behind them. We’ll talk to trailblazers who are leading initiatives to solve  these challenges and ask ourselves the question of how we can create a more perfect union.
 </description>
-    <lastBuildDate>Mon, 28 Sep 2020 00:08:35 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:16:14 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>Akshaya Ajith</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://localhost:4001/img/logo-itunes.jpg" />
+    <itunes:image href="https://podcasts.timeturner.today/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Akshaya Ajith</itunes:name>
       <itunes:email>podcasts@timeturner.today</itunes:email>
@@ -39,8 +39,8 @@
     <itunes:keywords>timeturner, history, equality, social change, constitution, law, justice, perfect union</itunes:keywords>
     <image>
       <title>Podcast</title>
-      <url>http://localhost:4001/img/logo-itunes.jpg</url>
-      <link>http://localhost:4001</link>
+      <url>https://podcasts.timeturner.today/img/logo-itunes.jpg</url>
+      <link>https://podcasts.timeturner.today</link>
     </image>
     
     <itunes:category text="History" />
@@ -54,12 +54,12 @@
     <itunes:category text="Equality" />
     <item>
             <title>Intro (Trailer) - Trailer to the TimeTurner Podcast series</title>
-            <link>http://localhost:4001/2020/09/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4001/players/episode0"/>
-            <comments>http://localhost:4001/2020/09/22/episode0.html#disqus_thread</comments>
+            <link>https://podcasts.timeturner.today/2020/09/22/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://podcasts.timeturner.today/players/episode0"/>
+            <comments>https://podcasts.timeturner.today/2020/09/22/episode0.html#disqus_thread</comments>
             <pubDate>Tue, 22 Sep 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4001/2020/09/22/episode0.html</guid>
+            <guid isPermaLink="false">https://podcasts.timeturner.today/2020/09/22/episode0.html</guid>
             <description><![CDATA[<!--- 
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.

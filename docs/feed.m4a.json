@@ -1,35 +1,35 @@
 {"version": "https://jsonfeed.org/version/1",
  "title": "Podcast",
- "home_page_url": "http://localhost:4001/",
- "feed_url": "http://localhost:4001/feed.json",
+ "home_page_url": "https://podcasts.timeturner.today/",
+ "feed_url": "https://podcasts.timeturner.today/feed.json",
  "description": "Welcome to the TimeTurner Podcast! Together, we'll dive into how social issues have shaped our times,  and discover the history behind them. We'll talk to trailblazers who are leading initiatives to solve  these challenges and ask ourselves the question of how we can create a more perfect union.",
  "user_comment": "Welcome to the TimeTurner Podcast! Together, we'll dive into how social issues have shaped our times,  and discover the history behind them. We'll talk to trailblazers who are leading initiatives to solve  these challenges and ask ourselves the question of how we can create a more perfect union.",
- "icon": "http://localhost:4001/apple-touch-icon-precomposed.png",
- "favicon": "http://localhost:4001/favicon.ico",
+ "icon": "https://podcasts.timeturner.today/apple-touch-icon-precomposed.png",
+ "favicon": "https://podcasts.timeturner.today/favicon.ico",
  "expired": false,
  "author": {
    "name": "Akshaya Ajith",
    "url": "https://timeturner.today/"
  },
  "items": [
-   {"id": "abc04fe4",
+   {"id": "bd239a5e",
     "title": "TimeTurner Podcast",
     "summary": "",
     "content_text": "The TimeTurner podcast is a dive into how social issues have shaped our times. In each episode, we’ll discover the history behind each complicated issue. We’ll talk to trailblazers who are leading initiatives to solve these challenges and ask ourselves the question of how we can create a more perfect union.TimeTurner was started as an idea that we could look back at history through the lens of current events, and work towards the future with solutions to issues we face today. As we continue to break barriers, drive towards change, and make monumental decisions, the shadow of history continues to fall over our lives today. While we cannot change the past, TimeTurner hopes to encourage discourse on how humanity has both leaped and stumbled throughout history, and how each action affects us inherently today.",
     "content_html": "<p>The TimeTurner podcast is a dive into how social issues have shaped our times. In each episode, we’ll discover the history behind each complicated issue. We’ll talk to trailblazers who are leading initiatives to solve these challenges and ask ourselves the question of how we can create a more perfect union.</p><p><a href=\"https://timeturner.today\">TimeTurner</a> was started as an idea that we could look back at history through the lens of current events, and work towards the future with solutions to issues we face today. As we continue to break barriers, drive towards change, and make monumental decisions, the shadow of history continues to fall over our lives today. While we cannot change the past, TimeTurner hopes to encourage discourse on how humanity has both leaped and stumbled throughout history, and how each action affects us inherently today.</p>",
-    "url": "http://localhost:4001/podcast,/timeturner,/trailer/2020/09/27/welcome-to-timeturner-podcast.html",
+    "url": "https://podcasts.timeturner.today/podcast,/timeturner,/trailer/2020/09/27/welcome-to-timeturner-podcast.html",
     "date_published": "2020-09-27T20:41:20-07:00",
     "date_modified": "2020-09-27T20:41:20-07:00",
     "author": {
       "name": ""
     }
   },
-   {"id": "e9dee028",
+   {"id": "95f447c9",
     "title": "Intro (Trailer)",
     "summary": "",
     "content_text": "",
-    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"minimal\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"/episodes/episode0.mp3\",\"m4a\":\"/episodes/episode0.m4a\"},\"coverUrl\":\"http://localhost:4001/img/logo-360x360.png\",\"title\":\"Intro (Trailer)\",\"subtitle\":\"Trailer to the TimeTurner Podcast series\",\"url\":\"http://localhost:4001/2020/09/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://localhost:4001/podigee-player/javascripts/podigee-podcast-player.js\"></script>",
-    "url": "http://localhost:4001/2020/09/22/episode0.html",
+    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"minimal\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"/episodes/episode0.mp3\",\"m4a\":\"/episodes/episode0.m4a\"},\"coverUrl\":\"https://podcasts.timeturner.today/img/logo-360x360.png\",\"title\":\"Intro (Trailer)\",\"subtitle\":\"Trailer to the TimeTurner Podcast series\",\"url\":\"https://podcasts.timeturner.today/2020/09/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://podcasts.timeturner.today/podigee-player/javascripts/podigee-podcast-player.js\"></script>",
+    "url": "https://podcasts.timeturner.today/2020/09/22/episode0.html",
     "attachments": [
       {"url": "/episodes/episode0.m4a",
        "mime_type": "audio/mpeg","size_in_bytes": "4894123"}
