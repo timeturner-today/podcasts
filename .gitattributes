@@ -1,2 +1,7 @@
+episodes/episode0.5.m4a filter=lfs diff=lfs merge=lfs -text
+episodes/episode0.5.mp3 filter=lfs diff=lfs merge=lfs -text
+episodes/episode0.5.wav filter=lfs diff=lfs merge=lfs -text
+episodes/episode0.m4a filter=lfs diff=lfs merge=lfs -text
+episodes/episode0.mp3 filter=lfs diff=lfs merge=lfs -text
 episodes/episode*.* filter=lfs diff=lfs merge=lfs -text
 docs/episodes/episode*.* filter=lfs diff=lfs merge=lfs -text
