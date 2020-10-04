@@ -4,13 +4,53 @@
   <title>Podcast</title>
   <link href="https://podcasts.timeturner.today/general_feed.xml" rel="self"/>
   <link href="https://podcasts.timeturner.today"/>
-  <updated>2020-10-02T10:51:11-07:00</updated>
+  <updated>2020-10-03T23:23:49-07:00</updated>
   <id>https://podcasts.timeturner.today/</id>
   <author>
     <name>Akshaya Ajith</name>
     <email>podcasts@timeturner.today</email>
   </author>
 
+  
+    <entry>
+      <title>Notorious</title>
+      <link href="https://podcasts.timeturner.today/2020/10/03/episide0.5.html"/>
+      <updated>2020-10-03T00:00:00-07:00</updated>
+      <id>https://podcasts.timeturner.today/2020/10/03/episide0.5</id>
+      <content type="html">&lt;p&gt;Two weeks ago, Associate Justice Ruth Bader Ginsburg passed away due to complications from cancer.  In this episode, we pay tribute to the Notorious RBG and the incredible legacy she leaves behind.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank Oyez for their meticulous record-keeping and transcripts from past Supreme Court proceedings. For the recording of the Supreme Court Opening Ritual, we would like to thank Alfred Wong. We would like to thank BBC NewsNight and C-Span for their thoughtful interviews of Justice Ginsburg.
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;minimal&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;/episodes/episode0.5.mp3&quot;,&quot;m4a&quot;:&quot;/episodes/episode0.5.m4a&quot;,&quot;wav&quot;:&quot;/episodes/episode0.5.wav&quot;},&quot;coverUrl&quot;:&quot;https://podcasts.timeturner.today/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Notorious&quot;,&quot;subtitle&quot;:&quot;A tribute to the Notorious RBG and the incredible legacy she leaves behind&quot;,&quot;url&quot;:&quot;https://podcasts.timeturner.today/2020/10/03/episide0.5.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcasts.timeturner.today/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;&lt;/p&gt;
+
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="38409239" 
+                href="https://podcasts.timeturner.today/episodes/episode0.5.mp3"/>    
+        
+      
+        
+          <link rel="enclosure" 
+                type="audio/mp4a-latm" 
+                length="73411276" 
+                href="https://podcasts.timeturner.today/episodes/episode0.5.m4a"/>    
+        
+      
+        
+          <link rel="enclosure" 
+                type="audio/" 
+                length="281819856" 
+                href="https://podcasts.timeturner.today/episodes/episode0.5.wav"/>    
+        
+      
+      
+    </entry>
   
     <entry>
       <title>TimeTurner Podcast</title>

@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://podcasts.timeturner.today/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>Welcome to the TimeTurner Podcast! Together, we’ll dive into how social issues have shaped our times,  and discover the history behind them. We’ll talk to trailblazers who are leading initiatives to solve  these challenges and ask ourselves the question of how we can create a more perfect union.
 </description>
-    <lastBuildDate>Fri, 02 Oct 2020 10:51:11 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 23:23:49 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -53,6 +53,36 @@
     
     <itunes:category text="Equality" />
     <item>
+            <title>Notorious - A tribute to the Notorious RBG and the incredible legacy she leaves behind</title>
+            <link>https://podcasts.timeturner.today/2020/10/03/episide0.5.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://podcasts.timeturner.today/players/episide0.5"/>
+            <comments>https://podcasts.timeturner.today/2020/10/03/episide0.5.html#disqus_thread</comments>
+            <pubDate>Sat, 03 Oct 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://podcasts.timeturner.today/2020/10/03/episide0.5.html</guid>
+            <description><![CDATA[<p>Two weeks ago, Associate Justice Ruth Bader Ginsburg passed away due to complications from cancer.  In this episode, we pay tribute to the Notorious RBG and the incredible legacy she leaves behind.</p>
+
+<p>We would like to thank Oyez for their meticulous record-keeping and transcripts from past Supreme Court proceedings. For the recording of the Supreme Court Opening Ritual, we would like to thank Alfred Wong. We would like to thank BBC NewsNight and C-Span for their thoughtful interviews of Justice Ginsburg.
+</p>
+
+]]></description>
+            <content:encoded><![CDATA[<p>Two weeks ago, Associate Justice Ruth Bader Ginsburg passed away due to complications from cancer.  In this episode, we pay tribute to the Notorious RBG and the incredible legacy she leaves behind.</p>
+
+<p>We would like to thank Oyez for their meticulous record-keeping and transcripts from past Supreme Court proceedings. For the recording of the Supreme Court Opening Ritual, we would like to thank Alfred Wong. We would like to thank BBC NewsNight and C-Span for their thoughtful interviews of Justice Ginsburg.
+</p>
+
+]]></content:encoded>
+            <enclosure url="/episodes/episode0.5.m4a" 
+                         length="73411276" 
+                         type="audio/mp4a-latm" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>A tribute to the Notorious RBG and the incredible legacy she leaves behind</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Akshaya Ajith</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:26:37</itunes:duration>
+            </item><item>
             <title>Intro (Trailer) - Trailer to the TimeTurner Podcast series</title>
             <link>https://podcasts.timeturner.today/2020/09/22/episode0.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://podcasts.timeturner.today/players/episode0"/>

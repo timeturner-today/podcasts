@@ -12,6 +12,22 @@
    "url": "https://timeturner.today/"
  },
  "items": [
+   {"id": "f788dee5",
+    "title": "Notorious",
+    "summary": "",
+    "content_text": "Two weeks ago, Associate Justice Ruth Bader Ginsburg passed away due to complications from cancer.  In this episode, we pay tribute to the Notorious RBG and the incredible legacy she leaves behind.We would like to thank Oyez for their meticulous record-keeping and transcripts from past Supreme Court proceedings. For the recording of the Supreme Court Opening Ritual, we would like to thank Alfred Wong. We would like to thank BBC NewsNight and C-Span for their thoughtful interviews of Justice Ginsburg.",
+    "content_html": "<p>Two weeks ago, Associate Justice Ruth Bader Ginsburg passed away due to complications from cancer.  In this episode, we pay tribute to the Notorious RBG and the incredible legacy she leaves behind.</p><p>We would like to thank Oyez for their meticulous record-keeping and transcripts from past Supreme Court proceedings. For the recording of the Supreme Court Opening Ritual, we would like to thank Alfred Wong. We would like to thank BBC NewsNight and C-Span for their thoughtful interviews of Justice Ginsburg.<script>  window.playerConfiguration = {\"options\":{\"theme\":\"minimal\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"/episodes/episode0.5.mp3\",\"m4a\":\"/episodes/episode0.5.m4a\",\"wav\":\"/episodes/episode0.5.wav\"},\"coverUrl\":\"https://podcasts.timeturner.today/img/logo-360x360.png\",\"title\":\"Notorious\",\"subtitle\":\"A tribute to the Notorious RBG and the incredible legacy she leaves behind\",\"url\":\"https://podcasts.timeturner.today/2020/10/03/episide0.5.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://podcasts.timeturner.today/podigee-player/javascripts/podigee-podcast-player.js\"></script></p>",
+    "url": "https://podcasts.timeturner.today/2020/10/03/episide0.5.html",
+    "attachments": [
+      {"url": "/episodes/",
+       "mime_type": "audio/mpeg","size_in_bytes": "38409239"}
+    ],
+    "date_published": "2020-10-03T00:00:00-07:00",
+    "date_modified": "2020-10-03T00:00:00-07:00",
+    "author": {
+      "name": "Akshaya Ajith"
+    }
+  },
    {"id": "bd239a5e",
     "title": "TimeTurner Podcast",
     "summary": "",
